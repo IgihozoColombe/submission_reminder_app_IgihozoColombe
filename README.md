@@ -2,7 +2,7 @@ Submission Reminder App
 
  Overview
 
-The Submission Reminder App is a Bash script that helps track students' assignment submissions. It allows users to create an environment where students' submission records are stored and dynamically updated without overwriting existing data.
+The Submission Reminder App is a Bash script that helps track students' assignment submissions. It allows users to create an environment where students' submission records are stored and dynamically updated without overwriting existing data
 
  Features
 
